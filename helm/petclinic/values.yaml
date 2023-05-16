@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: cloudfreak/petclinic
-  tag: latest
+  tag: 7
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
